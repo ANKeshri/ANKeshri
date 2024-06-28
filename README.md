@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 📫 How to reach me **22cs2007@rgipt.ac.in**
+- 📫 How to reach me **23cs2007@rgipt.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
