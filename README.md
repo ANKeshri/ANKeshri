@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aditya Narayan </h1>
 <h3 align="center">A passionate full stack developer from India</h3>
+- 🌱 I’m currently learning **Web Development**
+
+- 📫 How to reach me **23cs2007@rgipt.ac.in**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ANKeshri&label=Profile%20views&color=0e75b6&style=flat" alt="ANKeshri" /> </p>
 
@@ -7,9 +10,7 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=ANKeshri&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-- 🌱 I’m currently learning **Web Development**
 
-- 📫 How to reach me **23cs2007@rgipt.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
