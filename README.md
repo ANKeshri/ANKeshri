@@ -32,7 +32,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=ANKeshri&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ANKeshri&theme=dark&hide_border=false)<br/>
 
-<h3 align="left">Badges Earned (From GSSOC'24):</h3>
+## GSSOC(24) Badges 🪶
 
 <p align="left">
   <img src="https://gssoc.girlscript.tech/badges/1.png?imwidth=150" alt="GSSoC Badge 1" width="150" height="150">
@@ -41,5 +41,6 @@
   <img src="https://gssoc.girlscript.tech/badges/4.png?imwidth=150" alt="GSSoC Badge 4" width="150" height="150">
   <img src="https://gssoc.girlscript.tech/badges/5.png?imwidth=150" alt="GSSoC Badge 5" width="150" height="150">
  <img src="https://gssoc.girlscript.tech/badges/6.png?imwidth=150" alt="GSSoC Badge 6" width="150" height="150">
+ <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="150px" height="150px" />
 </p>
 
