@@ -35,13 +35,13 @@
 ## GSSOC(24) Badges 🪶
 <div style="display: flex; align-items: center; gap: 10px;" align="center">
  <p align="left">
-  <img src="https://gssoc.girlscript.tech/badges/1.png?imwidth=150" alt="GSSoC Badge 1" width="120" height="120">
-  <img src="https://gssoc.girlscript.tech/badges/2.png?imwidth=150" alt="GSSoC Badge 2" width="120" height="120">
-  <img src="https://gssoc.girlscript.tech/badges/3.png?imwidth=150" alt="GSSoC Badge 3" width="120" height="120">
-  <img src="https://gssoc.girlscript.tech/badges/4.png?imwidth=150" alt="GSSoC Badge 4" width="120" height="120">
-  <img src="https://gssoc.girlscript.tech/badges/5.png?imwidth=150" alt="GSSoC Badge 5" width="120" height="120">
- <img src="https://gssoc.girlscript.tech/badges/6.png?imwidth=150" alt="GSSoC Badge 6" width="120" height="120">
-  <img src="https://gssoc.girlscript.tech/badges/7.png?imwidth=150" alt="GSSoC Badge 6" width="120" height="120">
+  <img src="https://gssoc.girlscript.tech/badges/1.png?imwidth=150" alt="GSSoC Badge 1" width="110" height="110">
+  <img src="https://gssoc.girlscript.tech/badges/2.png?imwidth=150" alt="GSSoC Badge 2" width="110" height="110">
+  <img src="https://gssoc.girlscript.tech/badges/3.png?imwidth=150" alt="GSSoC Badge 3" width="110" height="110">
+  <img src="https://gssoc.girlscript.tech/badges/4.png?imwidth=150" alt="GSSoC Badge 4" width="110" height="110">
+  <img src="https://gssoc.girlscript.tech/badges/5.png?imwidth=150" alt="GSSoC Badge 5" width="110" height="110">
+ <img src="https://gssoc.girlscript.tech/badges/6.png?imwidth=150" alt="GSSoC Badge 6" width="110" height="110">
+  <img src="https://gssoc.girlscript.tech/badges/7.png?imwidth=150" alt="GSSoC Badge 6" width="110" height="110">
 </p>  
 </div>
 
