@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="https://t4.ftcdn.net/jpg/06/27/24/61/360_F_627246162_eWqgPhzzesH6ZGf81F2JolU22Z4CxF5q.jpg" height="300rem" width='100%'/>
+    <img src="https://www.okoone.com/wp-content/uploads/2025/02/Tech-innovation-391.jpg" height="500rem" width='100%'/>
 </p>
 <h1 align="center"> Hi  👋, I'm Aditya Narayan </h1>   
 <h3 align="center">A passionate Full Stack Developer from India</h3> 
