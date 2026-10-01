@@ -1,11 +1,25 @@
 <p align='center'>
     <img src="https://www.okoone.com/wp-content/uploads/2025/02/Tech-innovation-391.jpg" height="500rem" width='100%'/>
 </p>
-<h1 align="center"> Hi  👋, I'm Aditya Narayan </h1>   
-<h3 align="center">A passionate Full Stack Developer from India</h3> 
-- 🌱 I’m currently learning Web Development & DSA .
+<h1 align="center"> Hi  👋, I'm Aditya Narayan </h1> 
 
-- 📫 How to reach me **23cs2007@rgipt.ac.in**
+🔭 I’m currently working on
+AI-powered applications and full-stack projects, focused on building practical and useful products.
+
+👯 I’m looking to collaborate on
+AI/ML, GenAI, full-stack, and open-source projects with real-world impact.
+
+🤝 I’m looking for help with
+Scalable systems, backend architecture, and deeper AI/ML concepts.
+
+🌱 I’m currently learning
+LLMs, AI Agents, Transformers, NLP, system design, and cloud technologies.
+
+💬 Ask me about
+AI/ML, GenAI, NLP, full-stack development, DSA, and my projects.
+
+⚡ Fun fact
+I like learning by building—most of the things I know started with a “let me just try this” moment. 🚀
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ANKeshri&label=Profile%20views&color=0e75b6&style=flat" alt="ANKeshri" /> </p>
 
@@ -54,11 +68,24 @@
 
 
 
-## Connect with me :
+<h2>🌐 Socials:</h2>
+
 <p align="left">
-<a href="https://www.linkedin.com/in/aditya-narayan-33156a288/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  height="30" width="40" /></a>
- <a href="https://leetcode.com/u/00ZtS8Cisc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"  height="30" width="40" /></a>
- <a href="https://www.geeksforgeeks.org/user/ankeshriydx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<22cs3wrfy>" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/ankeshri/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/aditya-narayan-ank/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://x.com/AdityaN96968849" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+
+  <a href="mailto:23cs2007@rgipt.ac.in">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 
