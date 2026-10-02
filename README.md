@@ -1,27 +1,46 @@
 <p align='center'>
     <img src="https://www.okoone.com/wp-content/uploads/2025/02/Tech-innovation-391.jpg" height="500rem" width='100%'/>
 </p>
-<h1 align="center"> Hi  👋, I'm Aditya Narayan </h1> 
+<h1 align="center">👋 Hi, I'm Aditya Narayan</h1>
 
-🔭 I’m currently working on
-AI-powered applications and full-stack projects, focused on building practical and useful products.
+<h2>🔭 I’m currently working on</h2>
 
-👯 I’m looking to collaborate on
-AI/ML, GenAI, full-stack, and open-source projects with real-world impact.
+<p>
+  AI-powered applications and full-stack projects, focused on building
+  practical and useful products.
+</p>
 
-🤝 I’m looking for help with
-Scalable systems, backend architecture, and deeper AI/ML concepts.
+<h2>👯 I’m looking to collaborate on</h2>
 
-🌱 I’m currently learning
-LLMs, AI Agents, Transformers, NLP, system design, and cloud technologies.
+<p>
+  AI/ML, GenAI, full-stack, and open-source projects with real-world impact.
+</p>
 
-💬 Ask me about
-AI/ML, GenAI, NLP, full-stack development, DSA, and my projects.
+<h2>🤝 I’m looking for help with</h2>
 
-⚡ Fun fact
-I like learning by building—most of the things I know started with a “let me just try this” moment. 🚀
+<p>
+  Scalable systems, backend architecture, and deeper AI/ML concepts.
+</p>
 
-# 💻 Tech Stack:
+<h2>🌱 I’m currently learning</h2>
+
+<p>
+  LLMs, AI Agents, Transformers, NLP, System Design, and Cloud Technologies.
+</p>
+
+<h2>💬 Ask me about</h2>
+
+<p>
+  AI/ML, GenAI, NLP, Full-Stack Development, DSA, and my projects.
+</p>
+
+<h2>⚡ Fun fact</h2>
+
+<p>
+  I like learning by building — most of the things I know started with a
+  <b>“let me just try this”</b> moment. 🚀
+</p>
+<h1># 💻 Tech Stack: </h1>
 
 ### 👨‍💻 Languages
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
